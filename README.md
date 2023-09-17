@@ -1,1 +1,1 @@
-# conflit-git
+REMOTE
